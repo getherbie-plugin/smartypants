@@ -1,0 +1,8 @@
+{
+    "name": "getherbie/plugin-smartypants",
+    "homepage": "http://www.getherbie.org",
+    "description": "Smartypants Plugin for Herbie.",
+    "keywords": ["herbie", "plugin", "smartypants"],
+    "type": "herbie-plugin",
+    "license": "BSD-3-Clause"
+}
