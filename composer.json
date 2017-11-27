@@ -1,6 +1,6 @@
 {
     "name": "getherbie/plugin-smartypants",
-    "homepage": "http://www.getherbie.org",
+    "homepage": "https://www.getherbie.org",
     "description": "Smartypants Plugin for Herbie.",
     "keywords": ["herbie", "plugin", "smartypants"],
     "type": "herbie-plugin",
